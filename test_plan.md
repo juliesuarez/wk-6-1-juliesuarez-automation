@@ -200,7 +200,10 @@ We will use a **manual and static testing** approach focused on **functional** a
 
 **Action (Donie Golanda):** By Nov 4, please populate the "Risk Register" tab in our Google Sheet.
 
-Submit the excel link here plus analysis of the risks, this could be a pie-chart or histogram or bar graph.
+Our risk check includes continuous reviews of the Bookstore app, flagging customer or provider side risks, and creating a risk matrix:
+Excel link tracker: https://docs.google.com/spreadsheets/d/1tD9UsES4EpEndAaiTSLDPWYG6Ygy2hYa0wXrpsyGkaE/edit?gid=1847342276#gid=1847342276 
+
+Visual analysis of the risks via pie-chart: C:\Users\user\Desktop\PLP\_WK 11-18_SOFTWARE TESTING\WK 16\wk-6-1-juliesuarez\Bookstore_Riskcoverage.jpg
 
 #### Defect logging
 
