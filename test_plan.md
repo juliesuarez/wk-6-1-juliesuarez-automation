@@ -208,7 +208,7 @@ Part 2: The visual analysis of the risks as of 04.11.2025 via pie-chart:(https:/
 
 #### Definition of test cases
 
-**Action (Maureen Muriithi):** By Nov 4, Submit the test cases sheet here
+**Action (Maureen Muriithi):** By Nov 4, Submit the test cases sheet here: https://docs.google.com/spreadsheets/d/1tD9UsES4EpEndAaiTSLDPWYG6Ygy2hYa0wXrpsyGkaE/edit?usp=sharing
 
 #### **Defect logging**
 
