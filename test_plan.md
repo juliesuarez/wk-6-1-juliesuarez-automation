@@ -231,7 +231,10 @@ Submit the excel link here plus analysis of the risks, this could be a pie-chart
 --Our risk check includes continuous reviews of the Bookstore app, flagging customer or provider side risks, and creating a corresponding risk matrix. We have run Requirements Review, Design Documents Review and Static Analysis of the Code and identified several issues:
 Part 1: Excel link tracker as of 08.11.2025 : https://docs.google.com/spreadsheets/d/1tD9UsES4EpEndAaiTSLDPWYG6Ygy2hYa0wXrpsyGkaE/edit?gid=1847342276#gid=1847342276
 
-Part 2: The visual analysis of the findings from Requirements and Design Document review as of 08.11.2025 via pie-chart:(https://github.com/PLP-Database-Design/wk-6-1-juliesuarez/blob/main/Bookstore_Riskcoverage.jpg)
+Part 2: The visual analysis of the findings via pie-charts are available here (as of 09.11.2025): 
+i)  Requirements review -
+ii) Design Document review -
+iii)Static Analysis - (https://github.com/PLP-Database-Design/wk-6-1-juliesuarez/blob/main/Bookstore_Riskcoverage.jpg)
 
 Part 3: Static Analysis: SonarQube Scan Summary- BookStore Website
 --These scripts [PowerShell (.ps1) and sonar-project.properties] were created to automate SonarCloud scans for the Bookstore project. They help count total code files, measure lines of code and run quality checks (like bugs, code smells and security issues) in a simple, repeatable way without complex setup.
